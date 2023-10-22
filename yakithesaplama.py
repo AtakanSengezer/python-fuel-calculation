@@ -15,4 +15,4 @@ elif(yakitTipi == "dizel"):
 else: 
     print("Yanlış yakıt tipi girdiniz")
 
-print(f" Toplam Yakıt Maliyeti {toplamYakitUcreti} ")
+print(f" Toplam Yakıt Maliyeti {toplamYakitUcreti} TL'dir ")
